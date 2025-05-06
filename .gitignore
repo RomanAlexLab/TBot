@@ -1,5 +1,4 @@
-# Log files
+.env
 *.log
 
-# htaccess
-/.htaccess
+venv/
